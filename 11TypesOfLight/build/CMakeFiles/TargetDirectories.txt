@@ -1,0 +1,3 @@
+/home/antny/Documents/OpenGL/11TypesOfLight/build/CMakeFiles/opengl.dir
+/home/antny/Documents/OpenGL/11TypesOfLight/build/CMakeFiles/edit_cache.dir
+/home/antny/Documents/OpenGL/11TypesOfLight/build/CMakeFiles/rebuild_cache.dir

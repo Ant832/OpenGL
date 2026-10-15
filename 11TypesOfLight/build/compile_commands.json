@@ -1,0 +1,56 @@
+[
+{
+  "directory": "/home/antny/Documents/OpenGL/11TypesOfLight/build",
+  "command": "/usr/bin/c++ -DSOURCE_ROOT=/home/antny/Documents/OpenGL/11TypesOfLight -I/home/antny/Documents/OpenGL/11TypesOfLight/include -std=gnu++17 -o CMakeFiles/opengl.dir/src/main.cpp.o -c /home/antny/Documents/OpenGL/11TypesOfLight/src/main.cpp",
+  "file": "/home/antny/Documents/OpenGL/11TypesOfLight/src/main.cpp",
+  "output": "CMakeFiles/opengl.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/antny/Documents/OpenGL/11TypesOfLight/build",
+  "command": "/usr/bin/cc -DSOURCE_ROOT=/home/antny/Documents/OpenGL/11TypesOfLight -I/home/antny/Documents/OpenGL/11TypesOfLight/include  -o CMakeFiles/opengl.dir/src/glad.c.o -c /home/antny/Documents/OpenGL/11TypesOfLight/src/glad.c",
+  "file": "/home/antny/Documents/OpenGL/11TypesOfLight/src/glad.c",
+  "output": "CMakeFiles/opengl.dir/src/glad.c.o"
+},
+{
+  "directory": "/home/antny/Documents/OpenGL/11TypesOfLight/build",
+  "command": "/usr/bin/c++ -DSOURCE_ROOT=/home/antny/Documents/OpenGL/11TypesOfLight -I/home/antny/Documents/OpenGL/11TypesOfLight/include -std=gnu++17 -o CMakeFiles/opengl.dir/src/shaderClass.cpp.o -c /home/antny/Documents/OpenGL/11TypesOfLight/src/shaderClass.cpp",
+  "file": "/home/antny/Documents/OpenGL/11TypesOfLight/src/shaderClass.cpp",
+  "output": "CMakeFiles/opengl.dir/src/shaderClass.cpp.o"
+},
+{
+  "directory": "/home/antny/Documents/OpenGL/11TypesOfLight/build",
+  "command": "/usr/bin/c++ -DSOURCE_ROOT=/home/antny/Documents/OpenGL/11TypesOfLight -I/home/antny/Documents/OpenGL/11TypesOfLight/include -std=gnu++17 -o CMakeFiles/opengl.dir/src/VAO.cpp.o -c /home/antny/Documents/OpenGL/11TypesOfLight/src/VAO.cpp",
+  "file": "/home/antny/Documents/OpenGL/11TypesOfLight/src/VAO.cpp",
+  "output": "CMakeFiles/opengl.dir/src/VAO.cpp.o"
+},
+{
+  "directory": "/home/antny/Documents/OpenGL/11TypesOfLight/build",
+  "command": "/usr/bin/c++ -DSOURCE_ROOT=/home/antny/Documents/OpenGL/11TypesOfLight -I/home/antny/Documents/OpenGL/11TypesOfLight/include -std=gnu++17 -o CMakeFiles/opengl.dir/src/VBO.cpp.o -c /home/antny/Documents/OpenGL/11TypesOfLight/src/VBO.cpp",
+  "file": "/home/antny/Documents/OpenGL/11TypesOfLight/src/VBO.cpp",
+  "output": "CMakeFiles/opengl.dir/src/VBO.cpp.o"
+},
+{
+  "directory": "/home/antny/Documents/OpenGL/11TypesOfLight/build",
+  "command": "/usr/bin/c++ -DSOURCE_ROOT=/home/antny/Documents/OpenGL/11TypesOfLight -I/home/antny/Documents/OpenGL/11TypesOfLight/include -std=gnu++17 -o CMakeFiles/opengl.dir/src/EBO.cpp.o -c /home/antny/Documents/OpenGL/11TypesOfLight/src/EBO.cpp",
+  "file": "/home/antny/Documents/OpenGL/11TypesOfLight/src/EBO.cpp",
+  "output": "CMakeFiles/opengl.dir/src/EBO.cpp.o"
+},
+{
+  "directory": "/home/antny/Documents/OpenGL/11TypesOfLight/build",
+  "command": "/usr/bin/c++ -DSOURCE_ROOT=/home/antny/Documents/OpenGL/11TypesOfLight -I/home/antny/Documents/OpenGL/11TypesOfLight/include -std=gnu++17 -o CMakeFiles/opengl.dir/src/stb.cpp.o -c /home/antny/Documents/OpenGL/11TypesOfLight/src/stb.cpp",
+  "file": "/home/antny/Documents/OpenGL/11TypesOfLight/src/stb.cpp",
+  "output": "CMakeFiles/opengl.dir/src/stb.cpp.o"
+},
+{
+  "directory": "/home/antny/Documents/OpenGL/11TypesOfLight/build",
+  "command": "/usr/bin/c++ -DSOURCE_ROOT=/home/antny/Documents/OpenGL/11TypesOfLight -I/home/antny/Documents/OpenGL/11TypesOfLight/include -std=gnu++17 -o CMakeFiles/opengl.dir/src/texture.cpp.o -c /home/antny/Documents/OpenGL/11TypesOfLight/src/texture.cpp",
+  "file": "/home/antny/Documents/OpenGL/11TypesOfLight/src/texture.cpp",
+  "output": "CMakeFiles/opengl.dir/src/texture.cpp.o"
+},
+{
+  "directory": "/home/antny/Documents/OpenGL/11TypesOfLight/build",
+  "command": "/usr/bin/c++ -DSOURCE_ROOT=/home/antny/Documents/OpenGL/11TypesOfLight -I/home/antny/Documents/OpenGL/11TypesOfLight/include -std=gnu++17 -o CMakeFiles/opengl.dir/src/camera.cpp.o -c /home/antny/Documents/OpenGL/11TypesOfLight/src/camera.cpp",
+  "file": "/home/antny/Documents/OpenGL/11TypesOfLight/src/camera.cpp",
+  "output": "CMakeFiles/opengl.dir/src/camera.cpp.o"
+}
+]
